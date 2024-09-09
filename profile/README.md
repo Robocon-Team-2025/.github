@@ -10,7 +10,7 @@ Our primary goal is to design, build, and optimize a competitive robot that exce
 - **Electrical Engineering**: Developing and implementing the robot's electronic systems and circuitry.
 - **Software Development**: Writing the code that controls the robot, ensuring it operates with precision and efficiency.
 - **Project Management**: Overseeing the entire project lifecycle, including documentation and coordination efforts.
-- 
+  
 
 ## Central Hub for Collaboration
 This GitHub repository serves as our central hub for all team activities. It is not only a platform for code and technical documentation but also a comprehensive dashboard for project updates and management tasks. Here, every team member can stay informed and contribute to our collective success.
