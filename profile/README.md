@@ -10,7 +10,7 @@ Our primary goal is to design, build, and optimize a competitive robot that exce
 - **Electrical Engineering**: Developing and implementing the robot's electronic systems and circuitry.
 - **Software Development**: Writing the code that controls the robot, ensuring it operates with precision and efficiency.
 - **Management Department**: The management department encompasses multimedia for visual content creation, inventory for tracking and managing resources, outreach for community engagement and partnerships, and maintenance for ensuring all   
-  equipment and systems are in optimal condition.
+                             equipment and systems are in optimal condition.
   
 
 ## Central Hub for Collaboration
