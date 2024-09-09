@@ -1,6 +1,7 @@
 # Welcome to USM ROBOCON TEAM 2025!
 
 We are thrilled to have you join us on our journey toward the ROBOCON 2025 competition. Our team is dedicated to advancing the fields of mechanical, electrical, and software engineering through the research and development of innovative robotics solutions. Beyond the technical work, we are also deeply involved in project management, ensuring that our efforts are well-coordinated and documented.
+![large](https://github.com/user-attachments/assets/ba2f7677-f026-4693-a182-16185ddf8309)
 
 
 ## Our Mission
