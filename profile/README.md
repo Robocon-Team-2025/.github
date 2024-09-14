@@ -19,3 +19,9 @@ This GitHub repository serves as our central hub for all team activities. It is 
 
 ## Get Involved
 Interested in contributing to our team? We welcome your expertise! Please review our [contribution guidelines](link to contribution guidelines) and join us in pushing the boundaries of robotics innovation.
+
+
+
+# ROBOCON 2023
+Check out our project video:
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=yY-7Zocelrg&t=3s)
