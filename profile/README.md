@@ -24,4 +24,4 @@ Interested in contributing to our team? We welcome your expertise! Please review
 
 # ROBOCON 2023
 Check out our project video:
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=yY-7Zocelrg&t=3s)
+[![Watch the video](https://img.youtube.com/vi/yY-7Zocelrg/maxresdefault.jpg)](https://youtu.be/yY-7Zocelrg)
