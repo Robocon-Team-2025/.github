@@ -16,6 +16,35 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
 
 ---
 
+## Highcom Dashboard
+
+| Section              | Description                                                           | Link                                             |
+|----------------------|-----------------------------------------------------------------------|--------------------------------------------------|
+| 📄 **Highcom Main Dashboard**      | comprehensive access to all essential documents and information required for high-level coordination and progress tracking    | [Highcom](https://github.com/Robocon-Team-2025/High_Com_Main_Dashboard)                         |
+
+---
+
+## For Management Team
+
+| **Document**                           | **Description**                                               | **Link**                                          |
+|----------------------------------------|---------------------------------------------------------------|---------------------------------------------------|
+| 📝 **Outreach Documentation**           | Documentation related to outreach activities and community engagement. | [Outreach](https://github.com/Robocon-Team-2025/Outreach/tree/main/Dashboard) |
+| 📂 **Inventory**                       | Records and updates on inventory management.                 | [Inventory](https://github.com/Robocon-Team-2025/Inventory)                |
+| ⚙️ **Maintenance-Game-Management**     | Maintenance schedules and game field management documents.    | [Maintenance](https://github.com/Robocon-Team-2025/Maintenance-Game-Management) |
+| 🎥 **Multimedia**                     | Visual content and media files related to the project.         | [Multimedia](https://github.com/Robocon-Team-2025/Multimedia)                |
+
+---
+
+## For Technical Team
+
+| **Document**                           | **Description**                                               | **Link**                                          |
+|----------------------------------------|---------------------------------------------------------------|---------------------------------------------------|
+| ⚙️ **Mechanical Engineering**          | Documents related to mechanical engineering and design.     | [Mechanical](https://github.com/Robocon-Team-2025/Mechanical-Engineering)     |
+| 🔌 **Electrical Engineering**          | Resources on electrical systems, circuits, and components.  | [Electrical](https://github.com/Robocon-Team-2025/Electrical-Engineering)     |
+| 💻 **Software Development**            | Documentation on software development and coding practices. | [Software](https://github.com/Robocon-Team-2025/Software-Development)       |
+
+---
+
 ## 🛠 Our Mission
 
 Our primary goal is to design, build, and optimize a competitive robot that excels in the ROBOCON 2025 challenge. This involves extensive work in:
