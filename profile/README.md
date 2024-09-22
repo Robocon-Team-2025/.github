@@ -41,7 +41,10 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
 |----------------------------------------|---------------------------------------------------------------|---------------------------------------------------|
 | ⚙️ **Mechanical Engineering**          | Documents related to mechanical engineering and design.     | [Mechanical](https://github.com/Robocon-Team-2025/Mechanical-Engineering)     |
 | 🔌 **Electrical Engineering**          | Resources on electrical systems, circuits, and components.  | [Electrical](https://github.com/Robocon-Team-2025/Electrical-Engineering)     |
-| 💻 **Software Development**            | Documentation on software development and coding practices. | [Software](https://github.com/Robocon-Team-2025/Software-Development)       |
+| 💻 **Software Development**            | Documentation on software development and coding practices. |       |
+|           | ⚙️ Embedded System | [Embedded](https://github.com/Robocon-Team-2025/Embedded_System)       |
+|            | 🤖 Robot Operating System | [ROS](https://github.com/Robocon-Team-2025/Robot_Operating_System)       |
+|            | 🖼️ Image Processing | [Yolo](https://github.com/Robocon-Team-2025/Image_Processing)       |
 
 ---
 
