@@ -2,7 +2,7 @@
 
 We are thrilled to have you join us on our journey toward the ROBOCON 2025 competition. Our team is dedicated to advancing the fields of mechanical, electrical, and software engineering through the research and development of innovative robotics solutions. Beyond the technical work, we are also deeply involved in project management, ensuring that our efforts are well-coordinated and documented.
 
-![Large Team Photo](https://github.com/user-attachments/assets/ba2f7677-f026-4693-a182-16185ddf8309)
+![My Google Drive Image](https://drive.google.com/uc?export=view&id=1CuuwDG8pLRj5c7uGKh_yt8a0mQTzTLFT)
 
 ## Project Dashboard
 
