@@ -9,7 +9,7 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
 | Section              | Description                                                           | Link                                             |
 |----------------------|-----------------------------------------------------------------------|--------------------------------------------------|
 | 🛠 **Our Mission**      | Our goal is to design, build, and optimize a competitive robot.     | [Mission](#our-mission)                         |
-| 🏢 **Management**      | Details on our management department and its functions.              | [Management](#management-department)            |
+| 🏢 **Discussion**      | Details on discussion and provide the solution.              | [Discussion](#management-department)            |
 | 📹 **ROBOCON 2024**     | Watch our ROBOCON 2024 video to see our recent work.                 | [Video](https://drive.google.com/file/d/1hpsyqzMHmouXWSKGGdjjtJU9n4_LRnJK/view?usp=drive_link)                          |
 | 📹 **ROBOCON 2023**     | Check out our ROBOCON 2023 video to see past achievements.           | [Video](https://youtu.be/yY-7Zocelrg)                          |
 | 🤝 **Get Involved**     | Learn how you can contribute to our team and project.                | [Contribution Guidelines](link-to-contribution-guidelines) |
