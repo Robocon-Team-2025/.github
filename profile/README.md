@@ -12,7 +12,7 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
 | 🏢 **Discussion**      | Details on discussion and provide the solution.              | [Discussion](https://github.com/orgs/Robocon-Team-2025/discussions)            |
 | 📹 **ROBOCON 2024**     | Watch our ROBOCON 2024 video to see our recent work.                 | [Video](https://drive.google.com/file/d/1hpsyqzMHmouXWSKGGdjjtJU9n4_LRnJK/view?usp=drive_link)                          |
 | 📹 **ROBOCON 2023**     | Check out our ROBOCON 2023 video to see past achievements.           | [Video](https://youtu.be/yY-7Zocelrg)                          |
-| 🤝 **Get Involved**     | Learn how you can contribute to our team and project.                | [Contribution Guidelines](link-to-contribution-guidelines) |
+| 🤝 **Get Involved**     | You can install the Robocon Github APP to access it faster.                | [Contribution Guidelines](https://github.com/Robocon-Team-2025/APP_Features/blob/main/README.md) |
 
 ---
 
