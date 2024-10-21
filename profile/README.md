@@ -8,11 +8,12 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
 
 | Section              | Description                                                           | Link                                             |
 |----------------------|-----------------------------------------------------------------------|--------------------------------------------------|
-| 🛠 **Our Mission**      | Our goal is to design, build, and optimize a competitive robot.     | [Mission](#our-mission)                         |
-| 🏢 **Discussion**      | Details on discussion and provide the solution.              | [Discussion](https://github.com/orgs/Robocon-Team-2025/discussions)            |
+| 🛠 **Our Mission**       | Our goal is to design, build, and optimize a competitive robot.     | [Mission](#our-mission)                         |
+| 🏢 **Discussion**       | Details on discussion and provide the solution.              | [Discussion](https://github.com/orgs/Robocon-Team-2025/discussions)            |
 | 📹 **ROBOCON 2024**     | Watch our ROBOCON 2024 video to see our recent work.                 | [Video](https://drive.google.com/file/d/1hpsyqzMHmouXWSKGGdjjtJU9n4_LRnJK/view?usp=drive_link)                          |
 | 📹 **ROBOCON 2023**     | Check out our ROBOCON 2023 video to see past achievements.           | [Video](https://youtu.be/yY-7Zocelrg)                          |
 | 🤝 **Get Involved**     | You can install the Robocon Github APP to access it faster.                | [Contribution Guidelines](https://github.com/Robocon-Team-2025/APP_Features/blob/main/README.md) |
+| 🛠 **Issue Raised**      |Raise the ticket for any issue in management or technical team |[Issue Raised](https://github.com/Robocon-Team-2025/Issue_Raised)|
 
 ---
 
