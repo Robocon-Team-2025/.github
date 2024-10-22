@@ -14,28 +14,28 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
       <th style="text-align:center; background-color:#f2f2f2; padding: 10px;">Link</th>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">🤝 **Github APP**</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">🤝  <strong>Github APP <strong></td>
       <td style="padding:10px; background-color:#ffffff;">You can install the Robocon GitHub APP to access it faster.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/Robocon-Team-2025/APP_Features/blob/main/README.md" style="color:#007bff;">Github APP</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#f8d7da;">📝 **Ticket Raised introduction**</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#f8d7da;">📝  <strong>Ticket Raised introduction <strong></td>
       <td style="padding:10px; background-color:#ffffff;">Introduction for Raise the ticket for any issue in management or technical team.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/Robocon-Team-2025/Issue_Raised" style="color:#dc3545;">Ticket Intro</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">🎫 **Raise Ticket**</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">🎫  <strong>Raise Ticket <strong></td>
       <td style="padding:10px; background-color:#ffffff;">Raise the ticket portal.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/Robocon-Team-2025/Issue_Raised/issues" style="color:#28a745;">Raise Ticket</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">📊 **Ticket Project Status**</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">📊  <strong>Ticket Project Status <strong></td>
       <td style="padding:10px; background-color:#ffffff;">View the status of the tieckted rasied portal.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/orgs/Robocon-Team-2025/projects/12" style="color:#28a745;">Ticket Project Status</a>
@@ -55,28 +55,28 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
       <th style="text-align:center; background-color:#f2f2f2; padding: 10px;">Link</th>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">🛠 Our Mission</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">🛠  <strong>Our Mission <strong></td>
       <td style="padding:10px; background-color:#ffffff;">Our goal is to design, build, and optimize a competitive robot.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="#our-mission" style="color:#007bff;">Mission</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#f8d7da;">🏢 Discussion</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#f8d7da;">🏢  <strong>Discussion <strong></td>
       <td style="padding:10px; background-color:#ffffff;">Details on discussion and provide the solution.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/orgs/Robocon-Team-2025/discussions" style="color:#007bff;">Discussion</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">📹 ROBOCON 2024</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">📹  <strong>ROBOCON 2024 <strong></td>
       <td style="padding:10px; background-color:#ffffff;">Watch our ROBOCON 2024 video to see our recent work.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://drive.google.com/file/d/1hpsyqzMHmouXWSKGGdjjtJU9n4_LRnJK/view?usp=drive_link" style="color:#28a745;">Video</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#fce8b2;">📹 ROBOCON 2023</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#fce8b2;">📹  <strong>ROBOCON 2023 <strong></td>
       <td style="padding:10px; background-color:#ffffff;">Check out our ROBOCON 2023 video to see past achievements.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://youtu.be/yY-7Zocelrg" style="color:#ffc107;">Video</a>
@@ -96,7 +96,7 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
       <th style="text-align:center; background-color:#f2f2f2; padding: 10px;">Link</th>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">📄 Highcom Main Dashboard</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">📄  <strong>Highcom Main Dashboard <strong></td>
       <td style="padding:10px; background-color:#ffffff;">Comprehensive access to all essential documents and information required for high-level coordination and progress tracking.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/Robocon-Team-2025/High_Com_Main_Dashboard" style="color:#007bff;">Highcom</a>
@@ -116,35 +116,35 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
       <th style="text-align:center; background-color:#f2f2f2; padding: 10px;">Link</th>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">📝 Outreach Documentation</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">📝  <strong>Outreach Documentation <strong></td>
       <td style="padding:10px; background-color:#ffffff;">Documentation related to outreach activities and community engagement.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/Robocon-Team-2025/Outreach/tree/main/Dashboard" style="color:#007bff;">Outreach</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#f8d7da;">📂 Inventory</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#f8d7da;">📂  <strong>Inventory <strong></td>
       <td style="padding:10px; background-color:#ffffff;">Records and updates on inventory management.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/Robocon-Team-2025/Inventory" style="color:#007bff;">Inventory</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">⚙️ Maintenance-Game-Management</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">⚙️  <strong>Maintenance-Game-Management <strong></td>
       <td style="padding:10px; background-color:#ffffff;">Maintenance schedules and game field management documents.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/Robocon-Team-2025/Maintenance-Game-Management" style="color:#28a745;">Maintenance</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#fce8b2;">🎥 Multimedia</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#fce8b2;">🎥  <strong>Multimedia <strong></td>
       <td style="padding:10px; background-color:#ffffff;">Visual content and media files related to the project.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/Robocon-Team-2025/Multimedia" style="color:#ffc107;">Multimedia</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#f8d7da;">💳 Purchasing</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#f8d7da;">💳  <strong>Purchasing <strong></td>
       <td style="padding:10px; background-color:#ffffff;">Record, planning and researching for the items needed for Robocon.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/Robocon-Team-2025/Purchasing" style="color:#007bff;">Purchasing</a>
@@ -164,41 +164,41 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
       <th style="text-align:center; background-color:#f2f2f2; padding: 10px;">Link</th>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">⚙️ Mechanical Engineering</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">⚙️  <strong>Mechanical Engineering <strong></td>
       <td style="padding:10px; background-color:#ffffff;">Documents related to mechanical engineering and design.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/Robocon-Team-2025/Mechanical-Engineering" style="color:#007bff;">Mechanical</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#f8d7da;">🔌 Electrical Engineering</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#f8d7da;">🔌  <strong>Electrical Engineering <strong></td>
       <td style="padding:10px; background-color:#ffffff;">Resources on electrical systems, circuits, and components.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/Robocon-Team-2025/Electrical-Engineering" style="color:#007bff;">Electrical</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">💻 Software Development</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">💻  <strong>Software Development <strong></td>
       <td style="padding:10px; background-color:#ffffff;">Documentation on software development and coding practices.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;"> </td>
     </tr>
     <tr>
       <td style="padding:10px; background-color:#ffffff;"></td>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#fce8b2;">⚙️ Embedded System</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#fce8b2;">⚙️  <strong>Embedded System <strong></td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/Robocon-Team-2025/Embedded_System" style="color:#28a745;">Embedded</a>
       </td>
     </tr>
     <tr>
       <td style="padding:10px; background-color:#ffffff;"></td>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">🤖 Robot Operating System</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">🤖  <strong>Robot Operating System <strong></td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/Robocon-Team-2025/Robot_Operating_System" style="color:#007bff;">ROS</a>
       </td>
     </tr>
     <tr>
       <td style="padding:10px; background-color:#ffffff;"></td>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#f8d7da;">🖼️ Image Processing</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#f8d7da;">🖼️  <strong>Image Processing <strong></td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/Robocon-Team-2025/Image_Processing" style="color:#007bff;">Yolo</a>
       </td>
