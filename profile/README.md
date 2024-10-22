@@ -33,7 +33,7 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
 
 ---
 
-<h2>🌐 Project Dashboard</h2>
+<h2>🏢 Project Dashboard</h2>
 <div align="center">
   <table>
     <tr>
