@@ -33,7 +33,7 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
 
 ## For Management Team
 
-| **Document**                           | **Description**                                               | **Link**                                          |
+| **Department**                           | **Description**                                               | **Link**                                          |
 |----------------------------------------|---------------------------------------------------------------|---------------------------------------------------|
 | 📝 **Outreach Documentation**           | Documentation related to outreach activities and community engagement. | [Outreach](https://github.com/Robocon-Team-2025/Outreach/tree/main/Dashboard) |
 | 📂 **Inventory**                       | Records and updates on inventory management.                 | [Inventory](https://github.com/Robocon-Team-2025/Inventory)                |
@@ -45,7 +45,7 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
 
 ## For Technical Team
 
-| **Document**                           | **Description**                                               | **Link**                                          |
+| **Department**                           | **Description**                                               | **Link**                                          |
 |----------------------------------------|---------------------------------------------------------------|---------------------------------------------------|
 | ⚙️ **Mechanical Engineering**          | Documents related to mechanical engineering and design.     | [Mechanical](https://github.com/Robocon-Team-2025/Mechanical-Engineering)     |
 | 🔌 **Electrical Engineering**          | Resources on electrical systems, circuits, and components.  | [Electrical](https://github.com/Robocon-Team-2025/Electrical-Engineering)     |
