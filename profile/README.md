@@ -165,22 +165,27 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">⚙️ Embedded System</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">💻 Software Development</td>
+      <td style="padding:10px; background-color:#ffffff;">Documentation on software development and coding practices.</td>
+      <td style="text-align:center; padding:10px; background-color:#ffffff;"> </td>
+    </tr>
+    <tr>
       <td style="padding:10px; background-color:#ffffff;"></td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#fce8b2;">⚙️ Embedded System</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/Robocon-Team-2025/Embedded_System" style="color:#28a745;">Embedded</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#fce8b2;">🤖 Robot Operating System</td>
       <td style="padding:10px; background-color:#ffffff;"></td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">🤖 Robot Operating System</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
-        <a href="https://github.com/Robocon-Team-2025/Robot_Operating_System" style="color:#ffc107;">ROS</a>
+        <a href="https://github.com/Robocon-Team-2025/Robot_Operating_System" style="color:#007bff;">ROS</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">🖼️ Image Processing</td>
       <td style="padding:10px; background-color:#ffffff;"></td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#f8d7da;">🖼️ Image Processing</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/Robocon-Team-2025/Image_Processing" style="color:#007bff;">Yolo</a>
       </td>
@@ -188,7 +193,7 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
   </table>
 </div>
 
----
+<hr>
 
 ## 🛠 Our Mission
 
