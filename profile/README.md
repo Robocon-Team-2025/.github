@@ -119,7 +119,7 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
       <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">📝  <strong>Outreach Documentation <strong></td>
       <td style="padding:10px; background-color:#ffffff;">Documentation related to outreach activities and community engagement.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
-        <a href="https://github.com/Robocon-Team-2025/Outreach/tree/main/Dashboard" style="color:#007bff;">Outreach</a>
+        <a href="https://github.com/Robocon-Team-2025/Outreach/tree/main" style="color:#007bff;">Outreach</a>
       </td>
     </tr>
     <tr>
