@@ -4,11 +4,32 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
 
 ![My Google Drive Image](https://drive.google.com/uc?export=view&id=1CuuwDG8pLRj5c7uGKh_yt8a0mQTzTLFT)
 
-## Main Portal
-| Section              | Description                                                           | Link                                             |
-|----------------------|-----------------------------------------------------------------------|--------------------------------------------------|
-| 🤝 **Get Involved**     | You can install the Robocon Github APP to access it faster.                | [Contribution Guidelines](https://github.com/Robocon-Team-2025/APP_Features/blob/main/README.md) |
-| 🛠 **Ticket Raised**      |Raise the ticket for any issue in management or technical team |[Ticket Raised](https://github.com/Robocon-Team-2025/Issue_Raised)|
+## 🌐 **Main Portal**
+
+<div align="center">
+  <table>
+    <tr>
+      <th style="text-align:center; background-color:#f2f2f2; padding: 10px;">Section</th>
+      <th style="text-align:center; background-color:#f2f2f2; padding: 10px;">Description</th>
+      <th style="text-align:center; background-color:#f2f2f2; padding: 10px;">Link</th>
+    </tr>
+    <tr>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">🤝 **Get Involved**</td>
+      <td style="padding:10px; background-color:#ffffff;">You can install the Robocon GitHub APP to access it faster.</td>
+      <td style="text-align:center; padding:10px; background-color:#ffffff;">
+        <a href="https://github.com/Robocon-Team-2025/APP_Features/blob/main/README.md" style="color:#007bff;">Contribution Guidelines</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#f8d7da;">🛠 **Ticket Raised**</td>
+      <td style="padding:10px; background-color:#ffffff;">Raise the ticket for any issue in management or technical team.</td>
+      <td style="text-align:center; padding:10px; background-color:#ffffff;">
+        <a href="https://github.com/Robocon-Team-2025/Issue_Raised" style="color:#dc3545;">Ticket Raised</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
