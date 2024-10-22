@@ -4,6 +4,14 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
 
 ![My Google Drive Image](https://drive.google.com/uc?export=view&id=1CuuwDG8pLRj5c7uGKh_yt8a0mQTzTLFT)
 
+## Main Portal
+| Section              | Description                                                           | Link                                             |
+|----------------------|-----------------------------------------------------------------------|--------------------------------------------------|
+| 🤝 **Get Involved**     | You can install the Robocon Github APP to access it faster.                | [Contribution Guidelines](https://github.com/Robocon-Team-2025/APP_Features/blob/main/README.md) |
+| 🛠 **Ticket Raised**      |Raise the ticket for any issue in management or technical team |[Ticket Raised](https://github.com/Robocon-Team-2025/Issue_Raised)|
+
+---
+
 ## Project Dashboard
 
 | Section              | Description                                                           | Link                                             |
@@ -12,8 +20,6 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
 | 🏢 **Discussion**       | Details on discussion and provide the solution.              | [Discussion](https://github.com/orgs/Robocon-Team-2025/discussions)            |
 | 📹 **ROBOCON 2024**     | Watch our ROBOCON 2024 video to see our recent work.                 | [Video](https://drive.google.com/file/d/1hpsyqzMHmouXWSKGGdjjtJU9n4_LRnJK/view?usp=drive_link)                          |
 | 📹 **ROBOCON 2023**     | Check out our ROBOCON 2023 video to see past achievements.           | [Video](https://youtu.be/yY-7Zocelrg)                          |
-| 🤝 **Get Involved**     | You can install the Robocon Github APP to access it faster.                | [Contribution Guidelines](https://github.com/Robocon-Team-2025/APP_Features/blob/main/README.md) |
-| 🛠 **Issue Raised**      |Raise the ticket for any issue in management or technical team |[Issue Raised](https://github.com/Robocon-Team-2025/Issue_Raised)|
 
 ---
 
@@ -32,7 +38,8 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
 | 📝 **Outreach Documentation**           | Documentation related to outreach activities and community engagement. | [Outreach](https://github.com/Robocon-Team-2025/Outreach/tree/main/Dashboard) |
 | 📂 **Inventory**                       | Records and updates on inventory management.                 | [Inventory](https://github.com/Robocon-Team-2025/Inventory)                |
 | ⚙️ **Maintenance-Game-Management**     | Maintenance schedules and game field management documents.    | [Maintenance](https://github.com/Robocon-Team-2025/Maintenance-Game-Management) |
-| 🎥 **Multimedia**                     | Visual content and media files related to the project.         | [Multimedia](https://github.com/Robocon-Team-2025/Multimedia)                |
+| 🎥 **Multimedia**                      | Visual content and media files related to the project.         | [Multimedia](https://github.com/Robocon-Team-2025/Multimedia)                |
+| 💳 **Purchasing**                      | Record, planning and researching for the items needed for robocon |[Purchasing](https://github.com/Robocon-Team-2025/Purchasing)|
 
 ---
 
