@@ -21,15 +21,28 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#f8d7da;">🛠 **Ticket Raised**</td>
-      <td style="padding:10px; background-color:#ffffff;">Raise the ticket for any issue in management or technical team.</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#f8d7da;">📝 **Ticket Raised introduction**</td>
+      <td style="padding:10px; background-color:#ffffff;">Introduction for Raise the ticket for any issue in management or technical team.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
-        <a href="https://github.com/Robocon-Team-2025/Issue_Raised" style="color:#dc3545;">Ticket Raised</a>
+        <a href="https://github.com/Robocon-Team-2025/Issue_Raised" style="color:#dc3545;">Ticket Intro</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">🎫 **Raise Ticket**</td>
+      <td style="padding:10px; background-color:#ffffff;">Raise the ticket portal.</td>
+      <td style="text-align:center; padding:10px; background-color:#ffffff;">
+        <a href="https://github.com/Robocon-Team-2025/Issue_Raised/issues" style="color:#28a745;">Raise Ticket</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">📊 **Ticket Project Status**</td>
+      <td style="padding:10px; background-color:#ffffff;">View the status of the tieckted rasied portal.</td>
+      <td style="text-align:center; padding:10px; background-color:#ffffff;">
+        <a href="https://github.com/orgs/Robocon-Team-2025/projects/12" style="color:#28a745;">Ticket Project Status</a>
       </td>
     </tr>
   </table>
 </div>
-
 
 ---
 
