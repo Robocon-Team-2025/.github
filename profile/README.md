@@ -88,9 +88,9 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/Robocon-Team-2025/Serve-Drive" style="color:#28a745;">Serve Drive repo</a>
       <p style="text-align:center; padding:10px; background-color:#ffffff;">
-        <a href="https://github.com/Robocon-Team-2025/Serve-Drive" style="color:#28a745;">Serve Drive Ticket Raised</p>
+        <a href="https://github.com/Robocon-Team-2025/Serve-Drive/issues" style="color:#28a745;">Serve Drive Ticket Raised</p>
       <p style="text-align:center; padding:10px; background-color:#ffffff;">
-        <a href="https://github.com/Robocon-Team-2025/Serve-Drive" style="color:#28a745;">Serve Drive Project</p>
+        <a href="https://github.com/orgs/Robocon-Team-2025/projects/19" style="color:#28a745;">Serve Drive Project</p>
       </td>
     </tr>
   </table>
