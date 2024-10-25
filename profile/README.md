@@ -82,9 +82,19 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
         <a href="https://youtu.be/yY-7Zocelrg" style="color:#ffc107;">Video</a>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">📹  <strong>Serve Drive Project <strong></td>
+      <td style="padding:10px; background-color:#ffffff;">This Project Contributes among with Electrical, Mechanical and Software DPT</td>
+      <td style="text-align:center; padding:10px; background-color:#ffffff;">
+        <a href="https://github.com/Robocon-Team-2025/Serve-Drive" style="color:#28a745;">Serve Drive repo</a>
+      <p style="text-align:center; padding:10px; background-color:#ffffff;">
+        <a href="https://github.com/Robocon-Team-2025/Serve-Drive" style="color:#28a745;">Serve Drive Ticket Raised</p>
+      <p style="text-align:center; padding:10px; background-color:#ffffff;">
+        <a href="https://github.com/Robocon-Team-2025/Serve-Drive" style="color:#28a745;">Serve Drive Project</p>
+      </td>
+    </tr>
   </table>
 </div>
-
 <hr>
 
 <h2>📄 Highcom Dashboard</h2>
