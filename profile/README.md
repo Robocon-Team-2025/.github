@@ -36,7 +36,7 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
     </tr>
     <tr>
       <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">📊  <strong>Ticket Project Status <strong></td>
-      <td style="padding:10px; background-color:#ffffff;">View the status of the tieckted rasied portal.</td>
+      <td style="padding:10px; background-color:#ffffff;">View the status of the ticketed raised portal to manage tasks or time management.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/orgs/Robocon-Team-2025/projects/12" style="color:#28a745;">Ticket Project Status</a>
       </td>
