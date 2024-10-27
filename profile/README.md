@@ -56,9 +56,9 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
     </tr>
     <tr>
       <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">🛠  <strong>Our Mission <strong></td>
-      <td style="padding:10px; background-color:#ffffff;">Our goal is to design, build, and optimize a competitive robot.</td>
+      <td style="padding:10px; background-color:#ffffff;">Gang chart for Robocon 2025 timeline planning.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
-        <a href="#our-mission" style="color:#007bff;">Mission</a>
+        <a href="https://docs.google.com/spreadsheets/d/1ZlcJjJDwz7-H1ELcbthx7f5oLm1v_5HOP9ksk8V3wos/edit?usp=sharing" style="color:#007bff;">Gang Chart</a>
       </td>
     </tr>
     <tr>
@@ -83,7 +83,7 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">📹  <strong>Serve Drive Project <strong></td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">💽  <strong>Serve Drive Project <strong></td>
       <td style="padding:10px; background-color:#ffffff;">This Project Contributes among with Electrical, Mechanical and Software DPT</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/Robocon-Team-2025/Swerve-Drive" style="color:#28a745;">Swerve Drive repo</a>
