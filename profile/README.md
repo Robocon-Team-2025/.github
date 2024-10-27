@@ -190,7 +190,9 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
     <tr>
       <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">💻  <strong>Software Development <strong></td>
       <td style="padding:10px; background-color:#ffffff;">Documentation on software development and coding practices.</td>
-      <td style="text-align:center; padding:10px; background-color:#ffffff;"> </td>
+      <td style="text-align:center; padding:10px; background-color:#ffffff;">
+        <a href="https://github.com/Robocon-Team-2025/Software-Development" style="color:#28a745;">Software Development</a>
+      </td>
     </tr>
     <tr>
       <td style="padding:10px; background-color:#ffffff;"></td>
