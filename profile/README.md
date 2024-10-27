@@ -17,7 +17,7 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
       <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">🤝  <strong>Github APP <strong></td>
       <td style="padding:10px; background-color:#ffffff;">You can install the Robocon GitHub APP to access it faster.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
-        <a href="https://github.com/Robocon-Team-2025/APP_Features/blob/main/README.md" style="color:#007bff;">Github APP</a>
+        <a href="https://github.com/Robocon-Team-2025/APP_Features" style="color:#007bff;">Github APP</a>
       </td>
     </tr>
     <tr>
