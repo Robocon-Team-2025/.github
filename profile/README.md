@@ -21,6 +21,13 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
       </td>
     </tr>
     <tr>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">🤝  <strong>Github Tutorial <strong></td>
+      <td style="padding:10px; background-color:#ffffff;">Access to this platform to understand and learn how to us github.</td>
+      <td style="text-align:center; padding:10px; background-color:#ffffff;">
+        <a href="https://github.com/Robocon-Team-2025/Github-tutorial" style="color:#007bff;">Github Tutorial</a>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#f8d7da;">📝  <strong>Ticket Raised introduction <strong></td>
       <td style="padding:10px; background-color:#ffffff;">Introduction for Raise the ticket for any issue in management or technical team.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
