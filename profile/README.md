@@ -241,6 +241,11 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
 
 <hr>
 
+| Section              | Description                                                           | Link                                             |
+|----------------------|-----------------------------------------------------------------------|--------------------------------------------------|
+| 🔍 **Advanced R&D STM32**              | Research and build the integration on more advanced functions and features in STM32    | [Advanced R&D STM32](https://github.com/orgs/Robocon-Team-2025/projects/4)|
+| 👥 **SFT Recruitment Workshop**        | Preparation and setup for the software recruitment workshop                            | [Recruitment Workshop](https://github.com/orgs/Robocon-Team-2025/projects/9)|     
+
 ## 🛠 Our Mission
 
 Our primary goal is to design, build, and optimize a competitive robot that excels in the ROBOCON 2025 challenge. This involves extensive work in:
