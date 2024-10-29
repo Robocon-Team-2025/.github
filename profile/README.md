@@ -112,6 +112,20 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
         <a href="https://github.com/Robocon-Team-2025/High_Com_Main_Dashboard" style="color:#007bff;">Highcom</a>
       </td>
     </tr>
+    <tr>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">📄  <strong>Highcom Ticket Raised <strong></td>
+      <td style="padding:10px; background-color:#ffffff;">A platform for high committee members to report, track, and resolve issues efficiently.</td>
+      <td style="text-align:center; padding:10px; background-color:#ffffff;">
+        <a href="https://github.com/Robocon-Team-2025/HighComs-Ticket/issues" style="color:#007bff;">Ticket</a>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">📄  <strong>Highcom Ticket Status <strong></td>
+      <td style="padding:10px; background-color:#ffffff;">Stay updated on the progress and status of high committee tickets in real-time.</td>
+      <td style="text-align:center; padding:10px; background-color:#ffffff;">
+        <a href="https://github.com/orgs/Robocon-Team-2025/projects/21/views/1?layout=board" style="color:#007bff;">Status</a>
+      </td>
+    </tr>
   </table>
 </div>
 
