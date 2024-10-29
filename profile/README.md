@@ -239,12 +239,7 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
   </table>
 </div>
 
-<hr>
-
-| Section              | Description                                                           | Link                                             |
-|----------------------|-----------------------------------------------------------------------|--------------------------------------------------|
-| 🔍 **Advanced R&D STM32**              | Research and build the integration on more advanced functions and features in STM32    | [Advanced R&D STM32](https://github.com/orgs/Robocon-Team-2025/projects/4)|
-| 👥 **SFT Recruitment Workshop**        | Preparation and setup for the software recruitment workshop                            | [Recruitment Workshop](https://github.com/orgs/Robocon-Team-2025/projects/9)|     
+<hr>   
 
 ## 🛠 Our Mission
 
