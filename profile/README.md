@@ -63,9 +63,9 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
     </tr>
     <tr>
       <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">🛠  <strong>Our Mission <strong></td>
-      <td style="padding:10px; background-color:#ffffff;">Gang chart for Robocon 2025 timeline planning.</td>
+      <td style="padding:10px; background-color:#ffffff;">Gang chat for Robocon 2025 timeline planning.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
-        <a href="https://docs.google.com/spreadsheets/d/1ZlcJjJDwz7-H1ELcbthx7f5oLm1v_5HOP9ksk8V3wos/edit?usp=sharing" style="color:#007bff;">Gang Chart</a>
+        <a href="https://docs.google.com/spreadsheets/d/1ZlcJjJDwz7-H1ELcbthx7f5oLm1v_5HOP9ksk8V3wos/edit?usp=sharing" style="color:#007bff;">Gang Chat</a>
       </td>
     </tr>
     <tr>
