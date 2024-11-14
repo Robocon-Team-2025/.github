@@ -154,17 +154,17 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#f8d7da;">📂  <strong>Inventory <strong></td>
-      <td style="padding:10px; background-color:#ffffff;">Records and updates on inventory management.</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#f8d7da;">📂  <strong>QuaterMaster <strong></td>
+      <td style="padding:10px; background-color:#ffffff;">Records and updates on inventory management and maintenance equipment and components.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
-        <a href="https://github.com/Robocon-Team-2025/Inventory" style="color:#007bff;">Inventory</a>
+        <a href="https://github.com/Robocon-Team-2025/QuaterMaster" style="color:#007bff;">QuaterMaster</a>
       </td>
     </tr>
     <tr>
-      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">⚙️  <strong>Maintenance-Game-Management <strong></td>
-      <td style="padding:10px; background-color:#ffffff;">Maintenance schedules and game field management documents.</td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d4edda;">⚙️  <strong>Game-Feild-Fabrication <strong></td>
+      <td style="padding:10px; background-color:#ffffff;">Game field management documents.</td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
-        <a href="https://github.com/Robocon-Team-2025/Maintenance-Game-Management" style="color:#28a745;">Maintenance</a>
+        <a href="https://github.com/Robocon-Team-2025/Game-Feild-Fabrication" style="color:#28a745;">Game Field</a>
       </td>
     </tr>
     <tr>
