@@ -216,7 +216,7 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
       </td>
     </tr>
     <tr>
-      <td style="padding:10px; background-color:#ffffff;"></td>
+        <a href="https://github.com/Robocon-Team-2025/Embedded_System" style="color:#28a745;">Embedded</a>
       <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#fce8b2;">⚙️  <strong>Embedded System <strong></td>
       <td style="text-align:center; padding:10px; background-color:#ffffff;">
         <a href="https://github.com/Robocon-Team-2025/Embedded_System" style="color:#28a745;">Embedded</a>
