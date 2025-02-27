@@ -215,21 +215,20 @@ We are thrilled to have you join us on our journey toward the ROBOCON 2025 compe
         <a href="https://github.com/Robocon-Team-2025/Software-Development" style="color:#28a745;">Software Development</a>
       </td>
     </tr>
-   <tr>
-    <td>
-        <a href="https://github.com/Robocon-Team-2025/Embedded_System/tree/main/STM32H723_PinOut" 
-           style="color:#28a745; text-decoration:none;">
-            STM32H723PinOut
-        </a>
-    </td>
-    <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#fce8b2;">
-        ⚙️ <strong>Embedded System</strong>
-    </td>
-    <td style="text-align:center; padding:10px; background-color:#ffffff;">
-        <a href="https://github.com/Robocon-Team-2025/Embedded_System" style="color:#28a745;">Embedded</a>
-    </td>
-</tr>
-
+     <tr>
+      <td>
+          <a href="https://github.com/Robocon-Team-2025/Embedded_System/tree/main/STM32H723_PinOut" 
+             style="color:#28a745; text-decoration:none;">
+              STM32H723PinOut
+          </a>
+      </td>
+      <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#fce8b2;">
+          ⚙️ <strong>Embedded System</strong>
+      </td>
+      <td style="text-align:center; padding:10px; background-color:#ffffff;">
+          <a href="https://github.com/Robocon-Team-2025/Embedded_System" style="color:#28a745;">Embedded</a>
+      </td>
+    </tr>
     <tr>
       <td style="padding:10px; background-color:#ffffff;"></td>
       <td style="text-align:center; font-weight:bold; font-size:18px; background-color:#d1ecf1;">🤖  <strong>Robot Operating System <strong></td>
